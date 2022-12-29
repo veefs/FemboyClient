@@ -5,11 +5,11 @@ Base made by veefs & SpartanB312 & KillSKID\
 
 ## Modules
 <br><strong>Client</strong>
-<br>Active Modules List
-<br>ClickGUI
-<br>GUI Settings
-<br>HUD Editor
-<br>Watermark
+<br>&emsp;Active Modules List
+<br>&emsp;ClickGUI
+<br>&emsp;GUI Settings
+<br>&emsp;HUD Editor
+<br&emsp;>Watermark
 <br>
 <br><strong>Combat</strong>
 <br>&emsp;Anti 32k Totem
