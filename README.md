@@ -1,7 +1,7 @@
 # Femboy Client
-A Minecraft Java Edition Utility Mod Base for Minecraft 1.12.2 skids.\
+A Minecraft Java Edition Utility Mod Base for Minecraft 1.12.2 skids.
 
-Base made by veefs & SpartanB312 & KillSKID\
+<br>Base made by veefs & SpartanB312 & KillSKID
 
 ## Modules
 <br><strong>Client</strong>
