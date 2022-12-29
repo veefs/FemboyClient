@@ -36,5 +36,5 @@ A Minecraft Java Edition Utility Mod Base for Minecraft 1.12.2 skids.
 <br>
 
 
-## License\
+## License
 MIT
