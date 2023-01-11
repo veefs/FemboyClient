@@ -1,7 +1,9 @@
 # Femboy Client
 A Minecraft Java Edition Utility Mod Base for Minecraft 1.12.2. (Only skids use this)
 <br>Base made by veefs & SpartanB312 & KillSKID
+
 ---
+
 ## Modules
 <br><strong>Client</strong>
 <br>&emsp;Active Modules List
@@ -34,6 +36,8 @@ A Minecraft Java Edition Utility Mod Base for Minecraft 1.12.2. (Only skids use 
 <br>&emsp;Anti Overlay
 <br>&emsp;Fullbright
 <br>
+
 ---
+
 ## License
 MIT
