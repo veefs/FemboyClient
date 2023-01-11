@@ -8,7 +8,7 @@ A Minecraft Java Edition Utility Mod Base for Minecraft 1.12.2. (Only skids use 
 <br>&emsp;ClickGUI
 <br>&emsp;GUI Settings
 <br>&emsp;HUD Editor
-<br&emsp;>Watermark
+<br>&emsp;Watermark
 <br>
 <br><strong>Combat</strong>
 <br>&emsp;Anti 32k Totem
